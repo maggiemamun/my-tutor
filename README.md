@@ -38,4 +38,4 @@ Java 8, Junit 5, Maven, Git, Eclipse IDE
   https://github.com/maggiemamun/my-tutor/blob/main/Junits_image.png
 ```
 ## Note
-The scoring points  used in the json will b hidden to the Tutor(intended to be managed by the UI) and is intended to use purely by the backend service.
+The scoring points  used in the json will be hidden to the Tutor(intended to be managed by the UI) and is intended to use purely by the backend service.
