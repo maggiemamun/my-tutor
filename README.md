@@ -15,7 +15,7 @@ Java 8, Junit 5, Maven, Git, Eclipse IDE
 2. Import the repo to an IDE like Eclipse or Intellij.
 
 3. Run the Main application TutorMain.java  with any changes to the Questionnaire Json  and score will be updated to the output Questionnaire
-
+   
 ```bash
   src/main/java/TutorMain.java
 ```
@@ -37,4 +37,5 @@ Java 8, Junit 5, Maven, Git, Eclipse IDE
   Execution Snippet
   https://github.com/maggiemamun/my-tutor/blob/main/Junits_image.png
 ```
-
+## Note
+The scoring points  used in the json will b hidden to the Tutor(intended to be managed by the UI) and is intended to use purely by the backend service.
